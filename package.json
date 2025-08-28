@@ -15,7 +15,12 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "keywords": ["twitch", "extension", "websocket", "meme"],
-  "author": "Your Name",
+  "keywords": [
+    "twitch",
+    "extension",
+    "websocket",
+    "meme"
+  ],
+  "author": "Rekshot",
   "license": "MIT"
 }
